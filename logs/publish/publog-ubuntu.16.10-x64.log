@@ -1,0 +1,267 @@
+﻿Build started 4/26/2017 2:12:15 PM.
+14:12:15.998     1>Project "G:\stopwatch\stopwatch.csproj" on node 1 (Publish target(s)).
+14:12:17.716     1>GenerateTargetFrameworkMonikerAttribute: (TargetId:48)
+                   Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+                   CoreGenerateAssemblyInfo: (TargetId:52)
+                   Skipping target "CoreGenerateAssemblyInfo" because all output files are up-to-date with respect to the input files.
+                   CoreCompile: (TargetId:54)
+                   Skipping target "CoreCompile" because all output files are up-to-date with respect to the input files.
+                   _CopyOutOfDateSourceItemsToOutputDirectory: (TargetId:61)
+                   Skipping target "_CopyOutOfDateSourceItemsToOutputDirectory" because all output files are up-to-date with respect to the input files.
+                   GenerateBuildDependencyFile: (TargetId:64)
+                   Skipping target "GenerateBuildDependencyFile" because all output files are up-to-date with respect to the input files.
+                   CopyFilesToOutputDirectory: (TargetId:67)
+                     stopwatch -> G:\stopwatch\bin\release\netcoreapp1.1\ubuntu.16.10-x64\stopwatch.dll (TaskId:25)
+                   PrepareForPublish: (TargetId:74)
+                     Creating directory "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\". (TaskId:37)
+                   _CopyResolvedFilesToPublishPreserveNewest: (TargetId:84)
+                   Skipping target "_CopyResolvedFilesToPublishPreserveNewest" because it has no outputs.
+                   _CopyResolvedFilesToPublishAlways: (TargetId:85)
+                     Copying file from "obj\release\netcoreapp1.1\ubuntu.16.10-x64\stopwatch.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\stopwatch.dll". (TaskId:40)
+                     Copying file from "obj\release\netcoreapp1.1\ubuntu.16.10-x64\stopwatch.pdb" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\stopwatch.pdb". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\libuv\1.9.1\runtimes\debian-x64\native\libuv.so" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\libuv.so". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\microsoft.codeanalysis.common\1.3.0\lib\netstandard1.3\Microsoft.CodeAnalysis.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\Microsoft.CodeAnalysis.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\microsoft.codeanalysis.csharp\1.3.0\lib\netstandard1.3\Microsoft.CodeAnalysis.CSharp.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\Microsoft.CodeAnalysis.CSharp.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\microsoft.codeanalysis.visualbasic\1.3.0\lib\netstandard1.3\Microsoft.CodeAnalysis.VisualBasic.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\Microsoft.CodeAnalysis.VisualBasic.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\microsoft.csharp\4.3.0\lib\netstandard1.3\Microsoft.CSharp.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\Microsoft.CSharp.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\microsoft.visualbasic\10.1.0\lib\netstandard1.3\Microsoft.VisualBasic.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\Microsoft.VisualBasic.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\microsoft.win32.registry\4.3.0\runtimes\unix\lib\netstandard1.3\Microsoft.Win32.Registry.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\Microsoft.Win32.Registry.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.any.system.collections\4.3.0\lib\netstandard1.3\System.Collections.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Collections.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.any.system.diagnostics.tools\4.3.0\lib\netstandard1.3\System.Diagnostics.Tools.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Diagnostics.Tools.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.any.system.diagnostics.tracing\4.3.0\lib\netstandard1.5\System.Diagnostics.Tracing.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Diagnostics.Tracing.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.any.system.globalization\4.3.0\lib\netstandard1.3\System.Globalization.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Globalization.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.any.system.globalization.calendars\4.3.0\lib\netstandard1.3\System.Globalization.Calendars.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Globalization.Calendars.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.any.system.io\4.3.0\lib\netstandard1.5\System.IO.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.IO.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.any.system.reflection\4.3.0\lib\netstandard1.5\System.Reflection.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Reflection.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.any.system.reflection.extensions\4.3.0\lib\netstandard1.3\System.Reflection.Extensions.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Reflection.Extensions.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.any.system.reflection.primitives\4.3.0\lib\netstandard1.3\System.Reflection.Primitives.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Reflection.Primitives.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.any.system.resources.resourcemanager\4.3.0\lib\netstandard1.3\System.Resources.ResourceManager.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Resources.ResourceManager.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.any.system.runtime\4.3.0\lib\netstandard1.5\System.Runtime.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Runtime.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.any.system.runtime.handles\4.3.0\lib\netstandard1.3\System.Runtime.Handles.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Runtime.Handles.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.any.system.runtime.interopservices\4.3.0\lib\netstandard1.6\System.Runtime.InteropServices.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Runtime.InteropServices.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.any.system.text.encoding\4.3.0\lib\netstandard1.3\System.Text.Encoding.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Text.Encoding.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.any.system.text.encoding.extensions\4.3.0\lib\netstandard1.3\System.Text.Encoding.Extensions.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Text.Encoding.Extensions.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.any.system.threading.tasks\4.3.0\lib\netstandard1.3\System.Threading.Tasks.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Threading.Tasks.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.any.system.threading.timer\4.3.0\lib\netstandard1.3\System.Threading.Timer.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Threading.Timer.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.microsoft.netcore.dotnethost\1.1.0\runtimes\ubuntu.16.10-x64\native\dotnet" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\stopwatch". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.microsoft.netcore.dotnethostpolicy\1.1.0\runtimes\ubuntu.16.10-x64\native\libhostpolicy.so" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\libhostpolicy.so". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.microsoft.netcore.dotnethostresolver\1.1.0\runtimes\ubuntu.16.10-x64\native\libhostfxr.so" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\libhostfxr.so". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.microsoft.netcore.jit\1.1.1\runtimes\ubuntu.16.10-x64\native\libclrjit.so" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\libclrjit.so". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.microsoft.netcore.runtime.coreclr\1.1.1\runtimes\ubuntu.16.10-x64\lib\netstandard1.0\SOS.NETCore.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\SOS.NETCore.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.microsoft.netcore.runtime.coreclr\1.1.1\runtimes\ubuntu.16.10-x64\lib\netstandard1.0\System.Private.CoreLib.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Private.CoreLib.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.microsoft.netcore.runtime.coreclr\1.1.1\runtimes\ubuntu.16.10-x64\lib\netstandard1.0\mscorlib.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\mscorlib.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.microsoft.netcore.runtime.coreclr\1.1.1\runtimes\ubuntu.16.10-x64\native\System.Globalization.Native.so" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Globalization.Native.so". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.microsoft.netcore.runtime.coreclr\1.1.1\runtimes\ubuntu.16.10-x64\native\System.Private.CoreLib.ni.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Private.CoreLib.ni.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.microsoft.netcore.runtime.coreclr\1.1.1\runtimes\ubuntu.16.10-x64\native\libcoreclr.so" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\libcoreclr.so". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.microsoft.netcore.runtime.coreclr\1.1.1\runtimes\ubuntu.16.10-x64\native\libcoreclrtraceptprovider.so" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\libcoreclrtraceptprovider.so". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.microsoft.netcore.runtime.coreclr\1.1.1\runtimes\ubuntu.16.10-x64\native\libdbgshim.so" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\libdbgshim.so". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.microsoft.netcore.runtime.coreclr\1.1.1\runtimes\ubuntu.16.10-x64\native\libmscordaccore.so" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\libmscordaccore.so". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.microsoft.netcore.runtime.coreclr\1.1.1\runtimes\ubuntu.16.10-x64\native\libmscordbi.so" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\libmscordbi.so". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.microsoft.netcore.runtime.coreclr\1.1.1\runtimes\ubuntu.16.10-x64\native\libsos.so" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\libsos.so". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.microsoft.netcore.runtime.coreclr\1.1.1\runtimes\ubuntu.16.10-x64\native\libsosplugin.so" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\libsosplugin.so". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.microsoft.netcore.runtime.coreclr\1.1.1\runtimes\ubuntu.16.10-x64\native\mscorlib.ni.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\mscorlib.ni.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.microsoft.netcore.runtime.coreclr\1.1.1\runtimes\ubuntu.16.10-x64\native\sosdocsunix.txt" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\sosdocsunix.txt". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.runtime.native.system\4.3.0\runtimes\ubuntu.16.10-x64\native\System.Native.a" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Native.a". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.runtime.native.system\4.3.0\runtimes\ubuntu.16.10-x64\native\System.Native.so" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Native.so". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.runtime.native.system.io.compression\4.3.0\runtimes\ubuntu.16.10-x64\native\System.IO.Compression.Native.so" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.IO.Compression.Native.so". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.runtime.native.system.net.http\4.3.0\runtimes\ubuntu.16.10-x64\native\System.Net.Http.Native.so" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Net.Http.Native.so". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.runtime.native.system.net.security\4.3.0\runtimes\ubuntu.16.10-x64\native\System.Net.Security.Native.so" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Net.Security.Native.so". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\4.3.0\runtimes\ubuntu.16.10-x64\native\System.Security.Cryptography.Native.OpenSsl.so" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Security.Cryptography.Native.OpenSsl.so". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.unix.microsoft.win32.primitives\4.3.0\runtimes\unix\lib\netstandard1.3\Microsoft.Win32.Primitives.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\Microsoft.Win32.Primitives.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.unix.system.console\4.3.0\runtimes\unix\lib\netstandard1.3\System.Console.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Console.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.unix.system.diagnostics.debug\4.3.0\runtimes\unix\lib\netstandard1.3\System.Diagnostics.Debug.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Diagnostics.Debug.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.unix.system.io.filesystem\4.3.0\runtimes\unix\lib\netstandard1.3\System.IO.FileSystem.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.IO.FileSystem.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.unix.system.net.primitives\4.3.0\runtimes\unix\lib\netstandard1.3\System.Net.Primitives.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Net.Primitives.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.unix.system.net.sockets\4.3.0\runtimes\unix\lib\netstandard1.3\System.Net.Sockets.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Net.Sockets.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.unix.system.private.uri\4.3.0\runtimes\unix\lib\netstandard1.0\System.Private.Uri.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Private.Uri.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.unix.system.runtime.extensions\4.3.0\runtimes\unix\lib\netstandard1.5\System.Runtime.Extensions.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Runtime.Extensions.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.appcontext\4.3.0\lib\netstandard1.6\System.AppContext.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.AppContext.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.buffers\4.3.0\lib\netstandard1.1\System.Buffers.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Buffers.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.collections.concurrent\4.3.0\lib\netstandard1.3\System.Collections.Concurrent.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Collections.Concurrent.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.collections.immutable\1.3.0\lib\netstandard1.0\System.Collections.Immutable.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Collections.Immutable.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.componentmodel\4.3.0\lib\netstandard1.3\System.ComponentModel.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.ComponentModel.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.componentmodel.annotations\4.3.0\lib\netstandard1.4\System.ComponentModel.Annotations.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.ComponentModel.Annotations.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.diagnostics.diagnosticsource\4.3.0\lib\netstandard1.3\System.Diagnostics.DiagnosticSource.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Diagnostics.DiagnosticSource.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.diagnostics.fileversioninfo\4.0.0\runtimes\unix\lib\netstandard1.3\System.Diagnostics.FileVersionInfo.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Diagnostics.FileVersionInfo.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.diagnostics.process\4.3.0\runtimes\linux\lib\netstandard1.4\System.Diagnostics.Process.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Diagnostics.Process.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.diagnostics.stacktrace\4.0.1\lib\netstandard1.3\System.Diagnostics.StackTrace.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Diagnostics.StackTrace.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.dynamic.runtime\4.3.0\lib\netstandard1.3\System.Dynamic.Runtime.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Dynamic.Runtime.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.globalization.extensions\4.3.0\runtimes\unix\lib\netstandard1.3\System.Globalization.Extensions.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Globalization.Extensions.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.io.compression\4.3.0\runtimes\unix\lib\netstandard1.3\System.IO.Compression.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.IO.Compression.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.io.compression.zipfile\4.3.0\lib\netstandard1.3\System.IO.Compression.ZipFile.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.IO.Compression.ZipFile.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.io.filesystem.primitives\4.3.0\lib\netstandard1.3\System.IO.FileSystem.Primitives.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.IO.FileSystem.Primitives.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.io.filesystem.watcher\4.3.0\runtimes\linux\lib\netstandard1.3\System.IO.FileSystem.Watcher.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.IO.FileSystem.Watcher.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.io.memorymappedfiles\4.3.0\runtimes\unix\lib\netstandard1.3\System.IO.MemoryMappedFiles.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.IO.MemoryMappedFiles.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.io.unmanagedmemorystream\4.3.0\lib\netstandard1.3\System.IO.UnmanagedMemoryStream.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.IO.UnmanagedMemoryStream.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.linq\4.3.0\lib\netstandard1.6\System.Linq.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Linq.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.linq.expressions\4.3.0\lib\netstandard1.6\System.Linq.Expressions.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Linq.Expressions.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.linq.parallel\4.3.0\lib\netstandard1.3\System.Linq.Parallel.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Linq.Parallel.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.linq.queryable\4.3.0\lib\netstandard1.3\System.Linq.Queryable.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Linq.Queryable.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.net.http\4.3.0\runtimes\unix\lib\netstandard1.6\System.Net.Http.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Net.Http.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.net.nameresolution\4.3.0\runtimes\unix\lib\netstandard1.3\System.Net.NameResolution.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Net.NameResolution.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.net.requests\4.3.0\runtimes\unix\lib\netstandard1.3\System.Net.Requests.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Net.Requests.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.net.security\4.3.0\runtimes\unix\lib\netstandard1.6\System.Net.Security.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Net.Security.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.net.webheadercollection\4.3.0\lib\netstandard1.3\System.Net.WebHeaderCollection.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Net.WebHeaderCollection.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.numerics.vectors\4.3.0\lib\netstandard1.0\System.Numerics.Vectors.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Numerics.Vectors.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.objectmodel\4.3.0\lib\netstandard1.3\System.ObjectModel.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.ObjectModel.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.reflection.dispatchproxy\4.3.0\lib\netstandard1.3\System.Reflection.DispatchProxy.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Reflection.DispatchProxy.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.reflection.emit\4.3.0\lib\netstandard1.3\System.Reflection.Emit.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Reflection.Emit.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.reflection.emit.ilgeneration\4.3.0\lib\netstandard1.3\System.Reflection.Emit.ILGeneration.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Reflection.Emit.ILGeneration.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.reflection.emit.lightweight\4.3.0\lib\netstandard1.3\System.Reflection.Emit.Lightweight.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Reflection.Emit.Lightweight.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.reflection.metadata\1.4.1\lib\netstandard1.1\System.Reflection.Metadata.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Reflection.Metadata.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.reflection.typeextensions\4.3.0\lib\netstandard1.5\System.Reflection.TypeExtensions.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Reflection.TypeExtensions.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.resources.reader\4.3.0\lib\netstandard1.0\System.Resources.Reader.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Resources.Reader.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.runtime.interopservices.runtimeinformation\4.3.0\runtimes\unix\lib\netstandard1.1\System.Runtime.InteropServices.RuntimeInformation.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Runtime.InteropServices.RuntimeInformation.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.runtime.loader\4.3.0\lib\netstandard1.5\System.Runtime.Loader.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Runtime.Loader.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.runtime.numerics\4.3.0\lib\netstandard1.3\System.Runtime.Numerics.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Runtime.Numerics.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.security.claims\4.3.0\lib\netstandard1.3\System.Security.Claims.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Security.Claims.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.security.cryptography.algorithms\4.3.0\runtimes\unix\lib\netstandard1.6\System.Security.Cryptography.Algorithms.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Security.Cryptography.Algorithms.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.security.cryptography.cng\4.3.0\runtimes\unix\lib\netstandard1.6\System.Security.Cryptography.Cng.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Security.Cryptography.Cng.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.security.cryptography.csp\4.3.0\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.Csp.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Security.Cryptography.Csp.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.security.cryptography.encoding\4.3.0\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.Encoding.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Security.Cryptography.Encoding.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.security.cryptography.openssl\4.3.0\runtimes\unix\lib\netstandard1.6\System.Security.Cryptography.OpenSsl.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Security.Cryptography.OpenSsl.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.security.cryptography.primitives\4.3.0\lib\netstandard1.3\System.Security.Cryptography.Primitives.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Security.Cryptography.Primitives.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.security.cryptography.x509certificates\4.3.0\runtimes\unix\lib\netstandard1.6\System.Security.Cryptography.X509Certificates.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Security.Cryptography.X509Certificates.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.security.principal\4.3.0\lib\netstandard1.0\System.Security.Principal.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Security.Principal.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.security.principal.windows\4.3.0\runtimes\unix\lib\netstandard1.3\System.Security.Principal.Windows.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Security.Principal.Windows.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.text.encoding.codepages\4.0.1\runtimes\unix\lib\netstandard1.3\System.Text.Encoding.CodePages.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Text.Encoding.CodePages.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.text.regularexpressions\4.3.0\lib\netstandard1.6\System.Text.RegularExpressions.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Text.RegularExpressions.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.threading\4.3.0\lib\netstandard1.3\System.Threading.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Threading.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.threading.overlapped\4.3.0\runtimes\unix\lib\netstandard1.3\System.Threading.Overlapped.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Threading.Overlapped.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.threading.tasks.dataflow\4.7.0\lib\netstandard1.1\System.Threading.Tasks.Dataflow.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Threading.Tasks.Dataflow.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.threading.tasks.extensions\4.3.0\lib\netstandard1.0\System.Threading.Tasks.Extensions.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Threading.Tasks.Extensions.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.threading.tasks.parallel\4.3.0\lib\netstandard1.3\System.Threading.Tasks.Parallel.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Threading.Tasks.Parallel.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.threading.thread\4.3.0\lib\netstandard1.3\System.Threading.Thread.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Threading.Thread.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.threading.threadpool\4.3.0\lib\netstandard1.3\System.Threading.ThreadPool.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Threading.ThreadPool.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.xml.readerwriter\4.3.0\lib\netstandard1.3\System.Xml.ReaderWriter.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Xml.ReaderWriter.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.xml.xdocument\4.3.0\lib\netstandard1.3\System.Xml.XDocument.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Xml.XDocument.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.xml.xmldocument\4.0.1\lib\netstandard1.3\System.Xml.XmlDocument.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Xml.XmlDocument.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.xml.xpath\4.0.1\lib\netstandard1.3\System.Xml.XPath.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Xml.XPath.dll". (TaskId:40)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\system.xml.xpath.xdocument\4.0.1\lib\netstandard1.3\System.Xml.XPath.XDocument.dll" to "bin\release\netcoreapp1.1\ubuntu.16.10-x64\publish\System.Xml.XPath.XDocument.dll". (TaskId:40)
+14:12:19.129     1>Done Building Project "G:\stopwatch\stopwatch.csproj" (Publish target(s)).
+
+Project Performance Summary:
+     3131 ms  G:\stopwatch\stopwatch.csproj              1 calls
+               3131 ms  Publish                                    1 calls
+
+Target Performance Summary:
+        0 ms  BeforeBuild                                1 calls
+        0 ms  CopyFilesToPublishDirectory                1 calls
+        0 ms  CoreBuild                                  1 calls
+        0 ms  CreateCustomManifestResourceNames          1 calls
+        0 ms  ResolvePackageDependenciesForBuild         1 calls
+        0 ms  IncludeTransitiveProjectReferences         1 calls
+        0 ms  _SplitProjectReferencesByFileExistence     1 calls
+        0 ms  PrepareProjectReferences                   1 calls
+        0 ms  AfterResGen                                1 calls
+        0 ms  _DefaultMicrosoftNETPlatformLibrary        1 calls
+        0 ms  Compile                                    1 calls
+        0 ms  Publish                                    1 calls
+        0 ms  ResolveLockFileAnalyzers                   1 calls
+        0 ms  AfterResolveReferences                     1 calls
+        0 ms  BeforeResGen                               1 calls
+        0 ms  ResGen                                     1 calls
+        0 ms  ResolveSDKReferences                       1 calls
+        0 ms  ComputeAndCopyFilesToPublishDirectory      1 calls
+        0 ms  AfterCompile                               1 calls
+        0 ms  _SetTargetFrameworkMonikerAttribute        1 calls
+        0 ms  BeforeResolveReferences                    1 calls
+        0 ms  PrepareResources                           1 calls
+        0 ms  ComputePrivateAssetsPackageReferences      1 calls
+        0 ms  GetFrameworkPaths                          1 calls
+        0 ms  GetReferenceAssemblyPaths                  1 calls
+        0 ms  BeforeCompile                              1 calls
+        0 ms  CoreResGen                                 1 calls
+        0 ms  ExpandSDKReferences                        1 calls
+        0 ms  _CopySourceItemsToOutputDirectory          1 calls
+        0 ms  CreateSatelliteAssemblies                  1 calls
+        0 ms  GetTargetPath                              1 calls
+        0 ms  AfterBuild                                 1 calls
+        0 ms  Build                                      1 calls
+        0 ms  PrepareResourceNames                       1 calls
+        0 ms  SetWin32ManifestProperties                 1 calls
+        0 ms  PrepareForRun                              1 calls
+        0 ms  ResolveReferences                          1 calls
+        0 ms  GenerateAssemblyInfo                       1 calls
+        0 ms  GetInstalledSDKLocations                   1 calls
+        0 ms  _ComputeCopyToPublishDirectoryItems        1 calls
+        0 ms  ResolveProjectReferences                   1 calls
+        0 ms  GenerateBuildDependencyFile                1 calls
+        0 ms  _ComputeLockFileFrameworks                 1 calls
+        1 ms  _CopyResolvedFilesToPublishPreserveNewest   1 calls
+        1 ms  BuildOnlySettings                          1 calls
+        1 ms  _GenerateSatelliteAssemblyInputs           1 calls
+        1 ms  _CheckForCompileOutputs                    1 calls
+        1 ms  GetCopyToPublishDirectoryItems             1 calls
+        1 ms  _GenerateCompileInputs                     1 calls
+        1 ms  SplitResourcesByCulture                    1 calls
+        1 ms  _ComputeResolvedFilesToPublishTypes        1 calls
+        1 ms  _CopyOutOfDateSourceItemsToOutputDirectory   1 calls
+        1 ms  GetAssemblyVersion                         1 calls
+        1 ms  PrepareForPublish                          1 calls
+        1 ms  DefaultCopyToPublishDirectoryMetadata      1 calls
+        2 ms  IncrementalClean                           1 calls
+        2 ms  _SetEmbeddedWin32ManifestProperties        1 calls
+        2 ms  GetCopyToOutputDirectoryItems              1 calls
+        2 ms  GenerateTargetFrameworkMonikerAttribute    1 calls
+        2 ms  GeneratePublishRuntimeConfigurationFile    1 calls
+        3 ms  RenamePublishedHost                        1 calls
+        3 ms  ComputeFilesToPublish                      1 calls
+        3 ms  AssignTargetPaths                          1 calls
+        3 ms  _ComputeTransitiveProjectReferences        1 calls
+        3 ms  _ComputeLockFileAnalyzers                  1 calls
+        3 ms  PrepareForBuild                            1 calls
+        3 ms  CoreGenerateAssemblyInfo                   1 calls
+        4 ms  _ComputeActiveTFMFileDependencies          1 calls
+        4 ms  CheckForDuplicateItems                     1 calls
+        4 ms  _ComputeNetPublishAssets                   1 calls
+        4 ms  _GetProjectReferenceTargetFrameworkProperties   1 calls
+        5 ms  _ComputeTFMOnlyFileDependencies            1 calls
+        6 ms  _CheckForInvalidConfigurationAndPlatform   1 calls
+        7 ms  ResolveLockFileReferences                  1 calls
+        7 ms  _CleanGetCurrentAndPriorFileWrites         1 calls
+        7 ms  _CheckForUnsupportedTargetFramework        1 calls
+        8 ms  _GenerateCompileDependencyCache            1 calls
+        9 ms  CoreCompile                                1 calls
+       10 ms  CopyFilesToOutputDirectory                 1 calls
+       15 ms  CheckForImplicitPackageReferenceOverrides   1 calls
+       21 ms  _ComputeActiveTFMPackageDependencies       1 calls
+       30 ms  _ComputeNETCoreBuildOutputFiles            1 calls
+       30 ms  RunResolvePublishAssemblies                1 calls
+       37 ms  _ComputeLockFileReferences                 1 calls
+       84 ms  GenerateBuildRuntimeConfigurationFiles     1 calls
+       86 ms  GeneratePublishDependencyFile              1 calls
+      687 ms  ResolveAssemblyReferences                  1 calls
+      867 ms  RunResolvePackageDependencies              1 calls
+     1150 ms  _CopyResolvedFilesToPublishAlways          1 calls
+
+Task Performance Summary:
+        0 ms  RemoveDuplicates                           2 calls
+        1 ms  FindAppConfigFile                          1 calls
+        1 ms  Delete                                     1 calls
+        1 ms  AssignCulture                              1 calls
+        1 ms  ConvertToAbsolutePath                      1 calls
+        1 ms  WriteLinesToFile                           1 calls
+        1 ms  GetFrameworkPath                           1 calls
+        1 ms  AssignTargetPath                           6 calls
+        1 ms  GetAssemblyVersion                         1 calls
+        2 ms  ReadLinesFromFile                          1 calls
+        2 ms  MSBuild                                    1 calls
+        2 ms  FindUnderPath                              5 calls
+        3 ms  MakeDir                                    2 calls
+        4 ms  CheckForDuplicateItems                     3 calls
+        6 ms  Hash                                       1 calls
+        7 ms  CheckForImplicitPackageReferenceOverrides   1 calls
+        9 ms  Message                                    3 calls
+       30 ms  ResolvePublishAssemblies                   1 calls
+       84 ms  GenerateRuntimeConfigurationFiles          2 calls
+       85 ms  GenerateDepsFile                           1 calls
+      685 ms  ResolveAssemblyReference                   1 calls
+      843 ms  ResolvePackageDependencies                 1 calls
+     1152 ms  Copy                                       3 calls
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:03.42

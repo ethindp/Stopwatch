@@ -1,0 +1,127 @@
+﻿Build started 4/26/2017 2:09:35 PM.
+14:09:35.640     1>Project "G:\stopwatch\stopwatch.csproj" on node 1 (Build target(s)).
+14:09:35.681     1>PrepareForBuild: (TargetId:10)
+                     Creating directory "bin\release\netcoreapp1.1\ubuntu.14.04-x64\". (TaskId:9)
+                   GenerateTargetFrameworkMonikerAttribute: (TargetId:48)
+                   Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+                   CoreCompile: (TargetId:54)
+                     C:\Program Files\dotnet\sdk\1.0.3\Roslyn\RunCsc.cmd /noconfig /unsafe- /checked- /nowarn:1701,1702,1705 /nostdlib+ /platform:x64 /errorreport:prompt /warn:4 /define:TRACE;RELEASE;NETCOREAPP1_1 /reference:"C:\Users\Ethin Probst\.nuget\packages\microsoft.csharp\4.3.0\ref\netstandard1.0\Microsoft.CSharp.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\microsoft.visualbasic\10.1.0\ref\netstandard1.1\Microsoft.VisualBasic.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\microsoft.win32.primitives\4.3.0\ref\netstandard1.3\Microsoft.Win32.Primitives.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.appcontext\4.3.0\ref\netstandard1.6\System.AppContext.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.buffers\4.3.0\lib\netstandard1.1\System.Buffers.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.collections.concurrent\4.3.0\ref\netstandard1.3\System.Collections.Concurrent.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.collections\4.3.0\ref\netstandard1.3\System.Collections.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.collections.immutable\1.3.0\lib\netstandard1.0\System.Collections.Immutable.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.componentmodel.annotations\4.3.0\ref\netstandard1.4\System.ComponentModel.Annotations.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.componentmodel\4.3.0\ref\netstandard1.0\System.ComponentModel.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.console\4.3.0\ref\netstandard1.3\System.Console.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.diagnostics.debug\4.3.0\ref\netstandard1.3\System.Diagnostics.Debug.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.diagnostics.diagnosticsource\4.3.0\lib\netstandard1.3\System.Diagnostics.DiagnosticSource.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.diagnostics.process\4.3.0\ref\netstandard1.4\System.Diagnostics.Process.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.diagnostics.tools\4.3.0\ref\netstandard1.0\System.Diagnostics.Tools.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.diagnostics.tracing\4.3.0\ref\netstandard1.5\System.Diagnostics.Tracing.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.dynamic.runtime\4.3.0\ref\netstandard1.3\System.Dynamic.Runtime.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.globalization.calendars\4.3.0\ref\netstandard1.3\System.Globalization.Calendars.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.globalization\4.3.0\ref\netstandard1.3\System.Globalization.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.globalization.extensions\4.3.0\ref\netstandard1.3\System.Globalization.Extensions.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.io.compression\4.3.0\ref\netstandard1.3\System.IO.Compression.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.io.compression.zipfile\4.3.0\ref\netstandard1.3\System.IO.Compression.ZipFile.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.io\4.3.0\ref\netstandard1.5\System.IO.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.io.filesystem\4.3.0\ref\netstandard1.3\System.IO.FileSystem.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.io.filesystem.primitives\4.3.0\ref\netstandard1.3\System.IO.FileSystem.Primitives.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.io.filesystem.watcher\4.3.0\ref\netstandard1.3\System.IO.FileSystem.Watcher.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.io.memorymappedfiles\4.3.0\ref\netstandard1.3\System.IO.MemoryMappedFiles.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.io.unmanagedmemorystream\4.3.0\ref\netstandard1.3\System.IO.UnmanagedMemoryStream.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.linq\4.3.0\ref\netstandard1.6\System.Linq.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\System.Linq.Expressions.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.linq.parallel\4.3.0\ref\netstandard1.1\System.Linq.Parallel.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.linq.queryable\4.3.0\ref\netstandard1.0\System.Linq.Queryable.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.net.http\4.3.0\ref\netstandard1.3\System.Net.Http.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.net.nameresolution\4.3.0\ref\netstandard1.3\System.Net.NameResolution.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.net.primitives\4.3.0\ref\netstandard1.3\System.Net.Primitives.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.net.requests\4.3.0\ref\netstandard1.3\System.Net.Requests.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.net.security\4.3.0\ref\netstandard1.3\System.Net.Security.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.net.sockets\4.3.0\ref\netstandard1.3\System.Net.Sockets.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.net.webheadercollection\4.3.0\ref\netstandard1.3\System.Net.WebHeaderCollection.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.numerics.vectors\4.3.0\ref\netstandard1.0\System.Numerics.Vectors.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.objectmodel\4.3.0\ref\netstandard1.3\System.ObjectModel.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.reflection.dispatchproxy\4.3.0\ref\netstandard1.3\System.Reflection.DispatchProxy.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.reflection\4.3.0\ref\netstandard1.5\System.Reflection.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.reflection.extensions\4.3.0\ref\netstandard1.0\System.Reflection.Extensions.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.reflection.metadata\1.4.1\lib\netstandard1.1\System.Reflection.Metadata.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.reflection.primitives\4.3.0\ref\netstandard1.0\System.Reflection.Primitives.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.reflection.typeextensions\4.3.0\ref\netstandard1.5\System.Reflection.TypeExtensions.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.resources.reader\4.3.0\lib\netstandard1.0\System.Resources.Reader.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.resources.resourcemanager\4.3.0\ref\netstandard1.0\System.Resources.ResourceManager.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.runtime\4.3.0\ref\netstandard1.5\System.Runtime.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.runtime.extensions\4.3.0\ref\netstandard1.5\System.Runtime.Extensions.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.runtime.handles\4.3.0\ref\netstandard1.3\System.Runtime.Handles.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.runtime.interopservices\4.3.0\ref\netcoreapp1.1\System.Runtime.InteropServices.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.runtime.interopservices.runtimeinformation\4.3.0\ref\netstandard1.1\System.Runtime.InteropServices.RuntimeInformation.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.runtime.numerics\4.3.0\ref\netstandard1.1\System.Runtime.Numerics.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.security.cryptography.algorithms\4.3.0\ref\netstandard1.6\System.Security.Cryptography.Algorithms.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.security.cryptography.encoding\4.3.0\ref\netstandard1.3\System.Security.Cryptography.Encoding.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.security.cryptography.primitives\4.3.0\ref\netstandard1.3\System.Security.Cryptography.Primitives.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.security.cryptography.x509certificates\4.3.0\ref\netstandard1.4\System.Security.Cryptography.X509Certificates.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.security.principal\4.3.0\ref\netstandard1.0\System.Security.Principal.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.text.encoding\4.3.0\ref\netstandard1.3\System.Text.Encoding.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.text.encoding.extensions\4.3.0\ref\netstandard1.3\System.Text.Encoding.Extensions.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.text.regularexpressions\4.3.0\ref\netcoreapp1.1\System.Text.RegularExpressions.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.threading\4.3.0\ref\netstandard1.3\System.Threading.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.threading.tasks.dataflow\4.7.0\lib\netstandard1.1\System.Threading.Tasks.Dataflow.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.threading.tasks\4.3.0\ref\netstandard1.3\System.Threading.Tasks.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.threading.tasks.extensions\4.3.0\lib\netstandard1.0\System.Threading.Tasks.Extensions.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.threading.tasks.parallel\4.3.0\ref\netstandard1.1\System.Threading.Tasks.Parallel.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.threading.thread\4.3.0\ref\netstandard1.3\System.Threading.Thread.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.threading.threadpool\4.3.0\ref\netstandard1.3\System.Threading.ThreadPool.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.threading.timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.xml.readerwriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll" /reference:"C:\Users\Ethin Probst\.nuget\packages\system.xml.xdocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll" /debug- /debug:portable /filealign:512 /nologo /optimize+ /out:obj\release\netcoreapp1.1\ubuntu.14.04-x64\stopwatch.dll /target:exe /warnaserror- /utf8output /deterministic+ /analyzer:"C:\Users\Ethin Probst\.nuget\packages\microsoft.codeanalysis.analyzers\1.1.0\analyzers\dotnet\cs\Microsoft.CodeAnalysis.Analyzers.dll" /analyzer:"C:\Users\Ethin Probst\.nuget\packages\microsoft.codeanalysis.analyzers\1.1.0\analyzers\dotnet\cs\Microsoft.CodeAnalysis.CSharp.Analyzers.dll" Program.cs "G:\cygwin64\tmp\.NETCoreApp,Version=v1.1.AssemblyAttributes.cs" obj\release\netcoreapp1.1\ubuntu.14.04-x64\stopwatch.AssemblyInfo.cs (TaskId:23)
+                   _CopyOutOfDateSourceItemsToOutputDirectory: (TargetId:61)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.14.04-x64.microsoft.netcore.dotnethostpolicy\1.1.0\runtimes\ubuntu.14.04-x64\native\libhostpolicy.so" to "bin\release\netcoreapp1.1\ubuntu.14.04-x64\libhostpolicy.so". (TaskId:25)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.14.04-x64.microsoft.netcore.dotnethostresolver\1.1.0\runtimes\ubuntu.14.04-x64\native\libhostfxr.so" to "bin\release\netcoreapp1.1\ubuntu.14.04-x64\libhostfxr.so". (TaskId:25)
+                     Copying file from "C:\Users\Ethin Probst\.nuget\packages\runtime.ubuntu.14.04-x64.microsoft.netcore.dotnethost\1.1.0\runtimes\ubuntu.14.04-x64\native\dotnet" to "bin\release\netcoreapp1.1\ubuntu.14.04-x64\stopwatch". (TaskId:25)
+                   CopyFilesToOutputDirectory: (TargetId:67)
+                     Copying file from "obj\release\netcoreapp1.1\ubuntu.14.04-x64\stopwatch.dll" to "bin\release\netcoreapp1.1\ubuntu.14.04-x64\stopwatch.dll". (TaskId:28)
+                     stopwatch -> G:\stopwatch\bin\release\netcoreapp1.1\ubuntu.14.04-x64\stopwatch.dll (TaskId:29)
+                     Copying file from "obj\release\netcoreapp1.1\ubuntu.14.04-x64\stopwatch.pdb" to "bin\release\netcoreapp1.1\ubuntu.14.04-x64\stopwatch.pdb". (TaskId:30)
+14:09:39.199     1>Done Building Project "G:\stopwatch\stopwatch.csproj" (Build target(s)).
+
+Project Performance Summary:
+     3560 ms  G:\stopwatch\stopwatch.csproj              1 calls
+               3560 ms  Build                                      1 calls
+
+Target Performance Summary:
+        0 ms  SetWin32ManifestProperties                 1 calls
+        0 ms  PrepareProjectReferences                   1 calls
+        0 ms  BeforeCompile                              1 calls
+        0 ms  GetReferenceAssemblyPaths                  1 calls
+        0 ms  _GenerateSatelliteAssemblyInputs           1 calls
+        0 ms  AfterCompile                               1 calls
+        0 ms  ResolvePackageDependenciesForBuild         1 calls
+        0 ms  BeforeResolveReferences                    1 calls
+        0 ms  AfterResolveReferences                     1 calls
+        0 ms  AfterBuild                                 1 calls
+        0 ms  ResGen                                     1 calls
+        0 ms  BeforeResGen                               1 calls
+        0 ms  Build                                      1 calls
+        0 ms  BuildOnlySettings                          1 calls
+        0 ms  ResolveReferences                          1 calls
+        0 ms  _CopySourceItemsToOutputDirectory          1 calls
+        0 ms  GetTargetPath                              1 calls
+        0 ms  ResolveSDKReferences                       1 calls
+        0 ms  AfterResGen                                1 calls
+        0 ms  GetInstalledSDKLocations                   1 calls
+        0 ms  IncludeTransitiveProjectReferences         1 calls
+        0 ms  _DefaultMicrosoftNETPlatformLibrary        1 calls
+        0 ms  _SetTargetFrameworkMonikerAttribute        1 calls
+        0 ms  CreateSatelliteAssemblies                  1 calls
+        0 ms  BeforeBuild                                1 calls
+        0 ms  CoreBuild                                  1 calls
+        0 ms  ResolveLockFileAnalyzers                   1 calls
+        0 ms  PrepareForRun                              1 calls
+        0 ms  ExpandSDKReferences                        1 calls
+        0 ms  Compile                                    1 calls
+        0 ms  _SplitProjectReferencesByFileExistence     1 calls
+        0 ms  PrepareResourceNames                       1 calls
+        0 ms  CreateCustomManifestResourceNames          1 calls
+        0 ms  PrepareResources                           1 calls
+        0 ms  _ComputeLockFileFrameworks                 1 calls
+        0 ms  _GenerateCompileInputs                     1 calls
+        0 ms  GenerateAssemblyInfo                       1 calls
+        1 ms  GetFrameworkPaths                          1 calls
+        1 ms  CoreResGen                                 1 calls
+        1 ms  SplitResourcesByCulture                    1 calls
+        1 ms  ResolveProjectReferences                   1 calls
+        1 ms  _CheckForCompileOutputs                    1 calls
+        1 ms  _SetEmbeddedWin32ManifestProperties        1 calls
+        2 ms  GetCopyToOutputDirectoryItems              1 calls
+        2 ms  GetAssemblyVersion                         1 calls
+        2 ms  AssignTargetPaths                          1 calls
+        2 ms  _ComputeTransitiveProjectReferences        1 calls
+        2 ms  IncrementalClean                           1 calls
+        2 ms  GenerateTargetFrameworkMonikerAttribute    1 calls
+        3 ms  _ComputeLockFileAnalyzers                  1 calls
+        4 ms  _GetProjectReferenceTargetFrameworkProperties   1 calls
+        4 ms  CoreGenerateAssemblyInfo                   1 calls
+        4 ms  _ComputeActiveTFMFileDependencies          1 calls
+        5 ms  _ComputeTFMOnlyFileDependencies            1 calls
+        5 ms  CopyFilesToOutputDirectory                 1 calls
+        5 ms  _CleanGetCurrentAndPriorFileWrites         1 calls
+        5 ms  CheckForDuplicateItems                     1 calls
+        6 ms  _CheckForInvalidConfigurationAndPlatform   1 calls
+        6 ms  PrepareForBuild                            1 calls
+        7 ms  ResolveLockFileReferences                  1 calls
+        8 ms  _CheckForUnsupportedTargetFramework        1 calls
+        9 ms  _GenerateCompileDependencyCache            1 calls
+       15 ms  CheckForImplicitPackageReferenceOverrides   1 calls
+       17 ms  _ComputeActiveTFMPackageDependencies       1 calls
+       30 ms  _ComputeNETCoreBuildOutputFiles            1 calls
+       40 ms  _ComputeLockFileReferences                 1 calls
+       49 ms  _CopyOutOfDateSourceItemsToOutputDirectory   1 calls
+       58 ms  GenerateBuildRuntimeConfigurationFiles     1 calls
+      106 ms  GenerateBuildDependencyFile                1 calls
+      754 ms  ResolveAssemblyReferences                  1 calls
+      887 ms  RunResolvePackageDependencies              1 calls
+     1505 ms  CoreCompile                                1 calls
+
+Task Performance Summary:
+        0 ms  RemoveDuplicates                           2 calls
+        0 ms  AssignCulture                              1 calls
+        0 ms  Delete                                     1 calls
+        1 ms  FindAppConfigFile                          1 calls
+        1 ms  ConvertToAbsolutePath                      1 calls
+        1 ms  ReadLinesFromFile                          1 calls
+        1 ms  GetFrameworkPath                           1 calls
+        2 ms  AssignTargetPath                           5 calls
+        2 ms  MSBuild                                    1 calls
+        2 ms  GetAssemblyVersion                         1 calls
+        2 ms  Message                                    3 calls
+        2 ms  FindUnderPath                              5 calls
+        2 ms  WriteCodeFragment                          1 calls
+        3 ms  WriteLinesToFile                           2 calls
+        4 ms  CheckForDuplicateItems                     3 calls
+        5 ms  MakeDir                                    1 calls
+        6 ms  Hash                                       1 calls
+        7 ms  CheckForImplicitPackageReferenceOverrides   1 calls
+       51 ms  Copy                                       3 calls
+       58 ms  GenerateRuntimeConfigurationFiles          1 calls
+      106 ms  GenerateDepsFile                           1 calls
+      753 ms  ResolveAssemblyReference                   1 calls
+      860 ms  ResolvePackageDependencies                 1 calls
+     1503 ms  Csc                                        1 calls
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:03.86

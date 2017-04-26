@@ -1,0 +1,8 @@
+C:\Users\Ethin Probst\src\stopwatch\bin\release\netcoreapp1.1\stopwatch.deps.json
+C:\Users\Ethin Probst\src\stopwatch\bin\release\netcoreapp1.1\stopwatch.runtimeconfig.json
+C:\Users\Ethin Probst\src\stopwatch\bin\release\netcoreapp1.1\stopwatch.runtimeconfig.dev.json
+C:\Users\Ethin Probst\src\stopwatch\bin\release\netcoreapp1.1\stopwatch.dll
+C:\Users\Ethin Probst\src\stopwatch\bin\release\netcoreapp1.1\stopwatch.pdb
+C:\Users\Ethin Probst\src\stopwatch\obj\release\netcoreapp1.1\stopwatch.AssemblyInfo.cs
+C:\Users\Ethin Probst\src\stopwatch\obj\release\netcoreapp1.1\stopwatch.dll
+C:\Users\Ethin Probst\src\stopwatch\obj\release\netcoreapp1.1\stopwatch.pdb
